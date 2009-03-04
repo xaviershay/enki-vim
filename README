@@ -1,3 +1,10 @@
+THIS TOTALLY DOESN'T WORK ANYMORE
+
+YAML support was removed from enki. 
+Something like AtomPub would be better.
+
+---
+
 VIM scripts to publish to enki
 very rough and incomplete at the moment
 you'll need to sub in your API key to common.rb
